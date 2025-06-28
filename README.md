@@ -117,14 +117,6 @@ The final model is deployed using **Streamlit** as a web application, where user
 
 ---
 
-## 👥 Team Members
-
-- Sarvmbh Sawant (P422)
-- Miss Arati Shinde
-- [Add others if any]
-
----
-
 ## 📎 License
 
 This project is licensed under the [MIT License](LICENSE).
