@@ -2,6 +2,9 @@ Here's your complete and updated `README.md` content with the **Streamlit link**
 
 ---
 
+# Datasets
+https://drive.google.com/drive/folders/12AMVOA7AwtrYXB3wuOLFljNkGTYFi1Iz?usp=drive_link
+
 # 📰 Real vs Fake News Analysis using NLP
 
 This project applies Natural Language Processing (NLP) techniques to classify news articles as **real (0)** or **fake (1)**. It involves preprocessing textual data, exploratory data analysis (EDA), model building using multiple machine learning algorithms, model evaluation, and deployment using **Streamlit**.
