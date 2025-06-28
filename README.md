@@ -1,7 +1,3 @@
-Here's your complete and updated `README.md` content with the **Streamlit link** and **accuracy scores** in percentage format:
-
----
-
 # Datasets
 https://drive.google.com/drive/folders/12AMVOA7AwtrYXB3wuOLFljNkGTYFi1Iz?usp=drive_link
 
