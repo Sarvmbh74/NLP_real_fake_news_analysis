@@ -4,6 +4,10 @@ https://drive.google.com/drive/folders/12AMVOA7AwtrYXB3wuOLFljNkGTYFi1Iz?usp=dri
 ## 🚀 Deployment
 🔗 [Streamlit App Link](https://nlprealfakenewsanalysis-fveqsl8pkrcpc8kr98hfux.streamlit.app/)
 
+## Dataset sample to Test
+**Real news** WASHINGTON (Reuters) - The head of a conservative Republican faction in the U.S. Congress, who voted this month for a huge expansion of the national debt to pay for tax cuts, called himself a â€œfiscal conservativeâ€ on Sunday and urged budget restraint in 2018. In keeping with a sharp pivot under way among Republicans, U.S. Representative Mark Meadows, speaking on CBSâ€™ â€œFace the Nation,â€ drew a hard line on federal spending, which lawmakers are bracing to do battle over in January. 
+
+**Fake news** House Intelligence Committee Chairman Devin Nunes is going to have a bad day. He s been under the assumption, like many of us, that the Christopher Steele-dossier was what prompted the Russia investigation so he s been lashing out at the Department of Justice and the FBI in order to protect Trump. As it happens, the dossier is not what started the investigation, according to documents obtained by the New York Times.
 # 📰 Real vs Fake News Analysis using NLP
 
 This project applies Natural Language Processing (NLP) techniques to classify news articles as **real (0)** or **fake (1)**. It involves preprocessing textual data, exploratory data analysis (EDA), model building using multiple machine learning algorithms, model evaluation, and deployment using **Streamlit**.
